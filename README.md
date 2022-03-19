@@ -14,7 +14,7 @@ The Dataset was divided into Training Dataset(70%) and Testing Dataset(30%). The
 
 Detailed analysis, approach, implementation and results can be found in the [Python File](./BotDetection.py)
 
-Also find the [Project Report](./ProjectReport.pdf)
+Also find the [Project Report](./Final_Project_Report.pdf)
 
 ## Observation Results and Conclusion
 
